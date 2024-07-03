@@ -59,4 +59,7 @@ Podemos ver que es la ultima imagen creada hace aproximadamente 1 minuto...
 
 ![img_18.png](Imagenes%2Fimg_18.png)
 
-1
+Por ultimo, corremos el contenedor, vemos que no hay ningun error por lo que las pruebas pasaron exitosamente:
+
+![img_19.png](Imagenes%2Fimg_19.png)
+
